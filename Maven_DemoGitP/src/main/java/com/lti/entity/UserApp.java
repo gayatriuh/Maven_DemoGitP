@@ -5,7 +5,7 @@ public class UserApp {
 		System.out.println("Welecome to Calculator");
 		Integer.parseInt("One");
 		Calculator c=new Calculator();
-		int r=c.add(200,400);
+		int r=c.add(200,700);
 		System.out.println(r);
 		
 	}
