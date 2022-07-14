@@ -5,8 +5,9 @@ public class UserApp {
 		System.out.println("Welecome to Calculator");
 		Integer.parseInt("One");
 		Calculator c=new Calculator();
-		int r=c.add(100,300);
+		int r=c.add(100,400);
 		System.out.println(r);
+		
 	}
 
 }
